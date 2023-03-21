@@ -1,6 +1,6 @@
 [data-cognigy-webchat-root] [data-cognigy-webchat].webchat {
   animation: grow 0.5s;
-  border-radius: 80px;
+  border-radius: 10px;
 }
 
 @keyframes grow {
